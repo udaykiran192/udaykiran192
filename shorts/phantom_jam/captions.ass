@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Poppins ExtraBold,82,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,0,0,1,6,4,2,60,60,560,1
+Style: Hook,Anton,150,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,0,0,0,0,100,100,2,0,1,9,6,8,50,50,250,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:01.00,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}THIS TRAFFIC {\c&H00D7FF&}JAM{\c&HFFFFFF&}
+Dialogue: 1,0:00:01.00,0:00:02.06,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HAS NO {\c&H00D7FF&}CAUSE.{\c&HFFFFFF&}
+Dialogue: 1,0:00:02.11,0:00:02.75,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO CRASH.
+Dialogue: 1,0:00:02.75,0:00:03.56,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO ROADWORK.
+Dialogue: 1,0:00:03.56,0:00:04.30,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}NOTHING.{\c&HFFFFFF&}
+Dialogue: 1,0:00:04.35,0:00:05.14,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}IT STARTS WITH
+Dialogue: 1,0:00:05.14,0:00:05.75,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ONE DRIVER,
+Dialogue: 1,0:00:05.75,0:00:06.76,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TAPPING THE BRAKES,
+Dialogue: 1,0:00:06.76,0:00:07.37,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}FOR JUST A
+Dialogue: 1,0:00:07.37,0:00:07.96,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}SECOND.{\c&HFFFFFF&}
+Dialogue: 1,0:00:08.01,0:00:08.83,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}THE CAR BEHIND
+Dialogue: 1,0:00:08.83,0:00:09.68,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}REACTS A LITTLE
+Dialogue: 1,0:00:09.68,0:00:10.00,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LATE,
+Dialogue: 1,0:00:10.00,0:00:10.72,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}AND {\c&H00D7FF&}BRAKES{\c&HFFFFFF&} A
+Dialogue: 1,0:00:10.72,0:00:11.68,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LITTLE {\c&H00D7FF&}HARDER.{\c&HFFFFFF&}
+Dialogue: 1,0:00:11.73,0:00:12.43,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}THEN THE NEXT
+Dialogue: 1,0:00:12.43,0:00:13.21,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ONE {\c&H00D7FF&}BRAKES{\c&HFFFFFF&} EVEN
+Dialogue: 1,0:00:13.21,0:00:13.78,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}HARDER.{\c&HFFFFFF&}
+Dialogue: 1,0:00:13.83,0:00:15.07,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}THE SLOWDOWN TRAVELS
+Dialogue: 1,0:00:15.07,0:00:15.69,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}BACKWARDS,{\c&HFFFFFF&}
+Dialogue: 1,0:00:15.69,0:00:16.62,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}GROWING LIKE A
+Dialogue: 1,0:00:16.62,0:00:17.18,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}WAVE.{\c&HFFFFFF&}
+Dialogue: 1,0:00:17.23,0:00:17.67,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UNTIL,
+Dialogue: 1,0:00:17.67,0:00:18.45,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}FAR BEHIND,
+Dialogue: 1,0:00:18.45,0:00:19.34,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CARS COME TO
+Dialogue: 1,0:00:19.34,0:00:20.45,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A COMPLETE {\c&H00D7FF&}STOP,{\c&HFFFFFF&}
+Dialogue: 1,0:00:20.45,0:00:21.50,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}WHILE THE FIRST
+Dialogue: 1,0:00:21.50,0:00:22.50,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DRIVER IS LONG
+Dialogue: 1,0:00:22.50,0:00:23.09,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}GONE.
+Dialogue: 1,0:00:23.14,0:00:24.26,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SCIENTISTS CALL THIS
+Dialogue: 1,0:00:24.26,0:00:25.25,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A {\c&H00D7FF&}PHANTOM{\c&HFFFFFF&} TRAFFIC
+Dialogue: 1,0:00:25.25,0:00:25.73,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}JAM.
+Dialogue: 1,0:00:25.78,0:00:26.25,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}THE FIX?
+Dialogue: 1,0:00:26.25,0:00:26.98,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}KEEP A BIGGER
+Dialogue: 1,0:00:26.98,0:00:27.24,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}GAP,{\c&HFFFFFF&}
+Dialogue: 1,0:00:27.24,0:00:27.92,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}AND EASE OFF
+Dialogue: 1,0:00:27.92,0:00:29.11,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}INSTEAD OF BRAKING.
+Dialogue: 1,0:00:29.16,0:00:30.07,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ONE {\c&H00D7FF&}CALM{\c&HFFFFFF&} DRIVER
+Dialogue: 1,0:00:30.07,0:00:30.99,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CAN SWALLOW THE
+Dialogue: 1,0:00:30.99,0:00:31.90,Cap,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D7FF&}ENTIRE{\c&HFFFFFF&} {\c&H00D7FF&}WAVE.{\c&HFFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:04.25,Hook,,0,0,0,,{\fad(120,150)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}WHERE DID THIS\N{\c&H00D7FF&}JAM{\c&HFFFFFF&} COME FROM?
+Dialogue: 2,0:00:23.14,0:00:25.63,Hook,,0,0,0,,{\fad(120,150)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}{\c&H00D7FF&}PHANTOM\NTRAFFIC JAM
+Dialogue: 2,0:00:26.18,0:00:29.06,Hook,,0,0,0,,{\fad(120,150)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}THE FIX:\N{\c&H66FF33&}BIGGER GAP
+Dialogue: 2,0:00:29.16,0:00:32.60,Hook,,0,0,0,,{\fad(120,150)\fscx70\fscy70\t(0,160,\fscx100\fscy100)}{\c&H66FF33&}WAVE\NABSORBED

@@ -1,0 +1,5 @@
+frames/
+*.log
+*.wav
+sim.json
+preview_grid.png
